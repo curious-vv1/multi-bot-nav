@@ -1,0 +1,37 @@
+[0.009s] Invoking command in '/home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot -- -j8 -l8
+[0.025s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.110s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.115s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.179s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.179s] -- Added test 'lint_cmake' to check CMake code style
+[0.179s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.180s] -- Added test 'xmllint' to check XML markup files
+[0.181s] -- Configuring done
+[0.182s] -- Generating done
+[0.183s] -- Build files have been written to: /home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot
+[0.201s] Invoked command in '/home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot -- -j8 -l8
+[0.209s] Invoking command in '/home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot
+[0.215s] -- Install configuration: ""
+[0.215s] -- Execute custom install script
+[0.215s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/description/gazebo_control.xacro
+[0.222s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/description/inertia_macros.xacro
+[0.229s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/description/lidar.xacro
+[0.236s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.242s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.249s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/launch/display.launch.py
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/environment/path.sh
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/environment/path.dsv
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/local_setup.bash
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/local_setup.sh
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/local_setup.zsh
+[0.256s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/local_setup.dsv
+[0.256s] -- Symlinking: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/package.dsv
+[0.264s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.264s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.264s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.264s] -- Up-to-date symlink: /home/vivek/multi-bot-nav/multi-bot_ws/install/my_bot/share/my_bot/package.xml
+[0.265s] Invoked command in '/home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/vivek/multi-bot-nav/multi-bot_ws/build/my_bot
